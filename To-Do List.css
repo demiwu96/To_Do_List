@@ -44,13 +44,15 @@ li {
     background-color: rgb(16, 213, 248);
     width: 450px;
     padding: 10px 0px 10px 20px;
+    overflow-wrap: break-word;
 }
 
 ul li:nth-child(even) {
-    background:rgb(16, 155, 248);
+    background-color: rgb(16, 155, 248);
     width: 450px;
     padding: 10px 0px 10px 20px;
     font-size: 20px;
+    overflow-wrap: break-word;
 }
 
 .del {
